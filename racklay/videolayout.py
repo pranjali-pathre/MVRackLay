@@ -209,7 +209,6 @@ class Decoder(nn.Module):
 
         return x
 
-
 class Discriminator(nn.Module):
     """
     A patch discriminator used to regularize the decoder
