@@ -52,7 +52,7 @@ https://tinyurl.com/yxmu5t64
 
 ## Training
 
-Example code for training Racklay is provided below.
+Example code for training MVRacklay is provided below.
 
 ```
 python train.py 
