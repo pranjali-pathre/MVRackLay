@@ -46,7 +46,7 @@ cd MVRackLay
 pip install -r requirements.txt
 ```
 
-## Download *RackLay* Dataset
+## Download *MVRackLay* Dataset
 
 https://tinyurl.com/yxmu5t64
 
